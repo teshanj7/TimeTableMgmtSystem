@@ -1,7 +1,7 @@
-# IT21345296 - University Time Table Management System
+University Time Table Management System
 Repository for the University Time Table Management System built for Application Frameworks (AF) module of the second semester of the third year in the BSc. in IT degree specialized in Software Engineering program at SLIIT.
 
-<h2>Assignment 01 - Jayakody T.N.A. - IT21345296</h2>
+<h2>Assignment 01</h2>
 <p>A full Backend implementation of an university time table management system consistent of various number of models, controllers and routes. Additionally, a notification system and authentication using JWT (JSON Web Token) was also initiated to increase functionality of the system.</p>
 <p>API Documentation Link : https://documenter.getpostman.com/view/26306400/2sA35Bb3x7</p>
 
